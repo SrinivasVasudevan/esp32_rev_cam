@@ -2,7 +2,7 @@
 
 This project contains the files needed to build a reverse camera using the Freenove ESP32 Wrover.
 
-![ESP32 Setup](esp32_setup.jpg)
+![ESP32 Setup](esp32_CAM.jpeg)
 
 ## Checklists
 
